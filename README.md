@@ -13,7 +13,7 @@ Storing it in a local storage
  </ul>
  
  ### Link
- <a href = "https://clever-mclean-6310e2.netlify.app/>Project Link </a>
+ <a href = "https://clever-mclean-6310e2.netlify.app/">Project Link</a>
  
  ### Author
  <ul>
